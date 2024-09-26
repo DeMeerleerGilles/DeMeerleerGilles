@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @DeMeerleerGilles, student of Applied IT at HOGENT
-- 👀 I’m interested in exploring various fields within IT, including software development, cybersecurity, and data science.
-- 🌱 I’m currently learning Java and JS
+- 👋 Hi there! I’m Gilles De Meerleer (@DeMeerleerGilles)
+- 👀 I’m a student of **Applied IT** at HOGENT, passionate about IT, especially **networking**, **cybersecurity**, and **Linux**.
 - 📫 You can reach me via email at gilles.demeerleer@student.hogent.be
 
 <!---
