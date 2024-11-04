@@ -1,5 +1,5 @@
 - 👋 Hi there! I’m Gilles De Meerleer (@DeMeerleerGilles)
-- 👀 I’m a student of **Applied IT** at HOGENT, passionate about IT, especially **networking**, **cybersecurity**, and **Linux**.
+- 👀 I’m a student of Applied IT at HOGENT, currently specializing in the field of operations, with a strong interest in networking, cybersecurity, and Linux.
 - 📫 You can reach me via email at gilles.demeerleer@student.hogent.be
 
 <!---
