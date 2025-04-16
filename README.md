@@ -25,7 +25,9 @@
 ## Profile views
 
 <div align="center">
+   
 [![Gilles De Meerleer profile views](https://u8views.com/api/v1/github/profiles/146004284/views/day-week-month-total-count.svg)](https://u8views.com/github/DeMeerleerGilles)
+
 </div>
 
 <!---
