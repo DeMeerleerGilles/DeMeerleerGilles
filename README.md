@@ -7,7 +7,7 @@
 
    <a href="https://github.com/DeMeerleerGilles">
       <img height="150em" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=DeMeerleerGilles&show_icons=true&icon_color=61afef&text_color=adbac7&bg_color=ffffff00&layout=compact&hide_title=true&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="150em" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeMeerleerGilles&show_icons=true&icon_color=61afef&text_color=adbac7&bg_color=ffffff00&hide_title=true&include_all_commits=true&count_private=true&hide_border=true&langs_count=8&layout=compact&hide=jupyter%20notebook"/>
+<img height="150em" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeMeerleerGilles&show_icons=true&icon_color=61afef&text_color=adbac7&bg_color=ffffff00&hide_title=true&include_all_commits=true&count_private=true&hide_border=true&langs_count=8&layout=compact"/>
    </a>
 </div>
 
