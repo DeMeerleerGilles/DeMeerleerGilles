@@ -1,6 +1,6 @@
 <!-- HEADER -->
 <div align="center">
-   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=200&section=header&text=Hi%20,%20I'm%20Gilles%20De%20Meerleer&fontSize=40&fontColor=ffffff&animation=twinkling&fontAlignY=35"/>
+   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=200&section=header&text=Hi,%20I'm%20Gilles%20De%20Meerleer&fontSize=40&fontColor=ffffff&animation=twinkling&fontAlignY=35"/>
 </div>
 
 <!-- TAGLINE -->
