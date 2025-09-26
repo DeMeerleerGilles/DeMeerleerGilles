@@ -32,7 +32,7 @@
 ---
 
 <!-- TECHNOLOGIES -->
-## Tech Stack
+## Tech stack
 <div align="center">
    <img src="https://skillicons.dev/icons?i=linux,ubuntu,docker,nginx,cloudflare,git,github,python,java,mysql,wordpress&perline=6"/>
 </div>
@@ -40,7 +40,7 @@
 ---
 
 <!-- CONNECT -->
-## Let's Connect
+## Let's connect
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-gilles.demeerleer@proton.me-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:gilles.demeerleer@proton.me)
@@ -53,7 +53,7 @@
 ---
 
 <!-- PROFILE VIEWS -->
-## Profile Views
+## Profile views
 <div align="center">
    
 [![Views](https://u8views.com/api/v1/github/profiles/146004284/views/day-week-month-total-count.svg)](https://u8views.com/github/DeMeerleerGilles)
