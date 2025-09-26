@@ -1,6 +1,6 @@
 <!-- HEADER -->
 <div align="center">
-   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=200&section=header&text=Hi%20👋,%20I'm%20Gilles%20De%20Meerleer&fontSize=40&fontColor=ffffff&animation=twinkling&fontAlignY=35"/>
+   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=200&section=header&text=Hi%20,%20I'm%20Gilles%20De%20Meerleer&fontSize=40&fontColor=ffffff&animation=twinkling&fontAlignY=35"/>
 </div>
 
 <!-- TAGLINE -->
@@ -32,7 +32,7 @@
 ---
 
 <!-- TECHNOLOGIES -->
-## 🛠️ Tech Stack
+## Tech Stack
 <div align="center">
    <img src="https://skillicons.dev/icons?i=linux,ubuntu,docker,nginx,cloudflare,git,github,python,java,mysql,wordpress&perline=6"/>
 </div>
@@ -40,7 +40,7 @@
 ---
 
 <!-- CONNECT -->
-## 📬 Let's Connect
+## Let's Connect
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-gilles.demeerleer@proton.me-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:gilles.demeerleer@proton.me)
@@ -53,7 +53,7 @@
 ---
 
 <!-- PROFILE VIEWS -->
-## 👀 Profile Views
+## Profile Views
 <div align="center">
    
 [![Views](https://u8views.com/api/v1/github/profiles/146004284/views/day-week-month-total-count.svg)](https://u8views.com/github/DeMeerleerGilles)
