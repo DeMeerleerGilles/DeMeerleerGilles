@@ -1,36 +1,68 @@
-
-
+<!-- HEADER -->
 <div align="center">
-   <p><samp><img width="15" src="./assets/waving-hand.gif"/> Hi, I'm Gilles De Meerleer!<br></samp></p>
+   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=200&section=header&text=Hi%20👋,%20I'm%20Gilles%20De%20Meerleer&fontSize=40&fontColor=ffffff&animation=twinkling&fontAlignY=35"/>
+</div>
 
-   <pre>Student of Applied Information Technology at HOGENT | Networking, Cybersecurity & Linux Enthusiast</pre>
+<!-- TAGLINE -->
+<div align="center">
+   <samp>
+      Student of Applied Computer Science at HOGENT <br>
+      Networking • Cybersecurity • Linux Enthusiast <br>
+   </samp>
+</div>
 
+---
+
+<!-- GITHUB STATS -->
+<div align="center">
    <a href="https://github.com/DeMeerleerGilles">
-      <img height="150em" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=DeMeerleerGilles&show_icons=true&icon_color=61afef&text_color=adbac7&bg_color=ffffff00&layout=compact&hide_title=true&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="150em" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeMeerleerGilles&show_icons=true&icon_color=61afef&text_color=adbac7&bg_color=ffffff00&hide_title=true&include_all_commits=true&count_private=true&hide_border=true&langs_count=8&layout=compact"/>
+      <img height="160em" src="https://github-readme-stats.vercel.app/api?username=DeMeerleerGilles&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
+      <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeMeerleerGilles&layout=compact&theme=tokyonight&hide_border=true&langs_count=10"/>
+   </a>
+   <br>
+   <a href="https://git.io/streak-stats">
+      <img height="160em" src="https://streak-stats.demolab.com?user=DeMeerleerGilles&theme=tokyonight&hide_border=true"/>
+   </a>
+   <br>
+   <a href="https://activity-graph.herokuapp.com/graph?username=DeMeerleerGilles">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=DeMeerleerGilles&theme=tokyo-night&hide_border=true"/>
    </a>
 </div>
 
-## 📬 Let's Connect
+---
 
+<!-- TECHNOLOGIES -->
+## 🛠️ Tech Stack
 <div align="center">
-  
-[![Email](https://img.shields.io/badge/Email-gilles.demeerleer@proton.me-8B89CC?style=flat-square&logo=protonmail&logoColor=white)](mailto:gilles.demeerleer@proton.me)
-[![Academic Email](https://img.shields.io/badge/Academic_Mail-gilles.demeerleer@student.hogent.be-0055FF?style=flat-square&logo=gmail&logoColor=white)](mailto:gilles.demeerleer@student.hogent.be)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Gilles_De_Meerleer-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gilles-de-meerleer)
+   <img src="https://skillicons.dev/icons?i=linux,ubuntu,docker,nginx,cloudflare,git,github,python,java,mysql,wordpress&perline=6"/>
+</div>
 
+---
+
+<!-- CONNECT -->
+## 📬 Let's Connect
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-gilles.demeerleer@proton.me-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:gilles.demeerleer@proton.me)
+[![Academic](https://img.shields.io/badge/Academic%20Email-gilles.demeerleer@student.hogent.be-0055FF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gilles.demeerleer@student.hogent.be)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Gilles%20De%20Meerleer-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gilles-de-meerleer)
+[![GitHub Followers](https://img.shields.io/github/followers/DeMeerleerGilles?style=for-the-badge&logo=github&color=333)](https://github.com/DeMeerleerGilles)
 
 </div>
 
-## Profile views
+---
 
+<!-- PROFILE VIEWS -->
+## 👀 Profile Views
 <div align="center">
    
-[![Gilles De Meerleer profile views](https://u8views.com/api/v1/github/profiles/146004284/views/day-week-month-total-count.svg)](https://u8views.com/github/DeMeerleerGilles)
+[![Views](https://u8views.com/api/v1/github/profiles/146004284/views/day-week-month-total-count.svg)](https://u8views.com/github/DeMeerleerGilles)
 
 </div>
 
-<!---
-DeMeerleerGilles/DeMeerleerGilles is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+<!-- FOOTER -->
+<div align="center">
+   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=120&section=footer"/>
+</div>
