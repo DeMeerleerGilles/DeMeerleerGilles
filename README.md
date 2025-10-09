@@ -34,7 +34,7 @@
 <!-- TECHNOLOGIES -->
 ## Tech stack
 <div align="center">
-   <img src="https://skillicons.dev/icons?i=linux,ubuntu,docker,nginx,cloudflare,git,github,python,java,mysql,wordpress&perline=6"/>
+   <img src="https://skillicons.dev/icons?i=cloudflare,html,css,js,bootstrap,dotnet,figma,aws,gcp,azure,git,java,cs,jenkins,latex,mysql,nginx,php,py,raspberrypi,redhat,ubuntu,kali,debian,docker,ansible,bash,visualstudio,vscode,androidstudio,wordpress,windows&perline=6"/>
 </div>
 
 ---
