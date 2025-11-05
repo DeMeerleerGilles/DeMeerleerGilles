@@ -19,17 +19,7 @@
       <img height="160em" src="https://github-readme-stats.vercel.app/api?username=DeMeerleerGilles&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
       <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeMeerleerGilles&layout=compact&theme=tokyonight&hide_border=true&langs_count=10"/>
    </a>
-   <br>
-   <a href="https://git.io/streak-stats">
-      <img height="160em" src="https://streak-stats.demolab.com?user=DeMeerleerGilles&theme=tokyonight&hide_border=true"/>
-   </a>
-   <br>
-   <a href="https://activity-graph.herokuapp.com/graph?username=DeMeerleerGilles">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=DeMeerleerGilles&theme=tokyo-night&hide_border=true"/>
-   </a>
 </div>
-
----
 
 <!-- TECHNOLOGIES -->
 ## Tech stack
