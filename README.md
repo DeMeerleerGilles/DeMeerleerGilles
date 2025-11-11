@@ -7,7 +7,6 @@
 <div align="center">
    <samp>
       Student of Applied Computer Science at HOGENT <br>
-      Networking • Cybersecurity • Linux Enthusiast <br>
    </samp>
 </div>
 
