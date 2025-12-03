@@ -14,7 +14,8 @@ Focused on operations, cloud infrastructure, networking, automation & cybersecur
 ---
 
 ## Contact
-- GitHub: [DeMeerleerGilles](https://github.com/DeMeerleerGilles)
+- **Email:** gilles@demeerleer.eu  
+- **Discord:** gilles.dm 
 
 ---
 
