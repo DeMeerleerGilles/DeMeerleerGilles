@@ -8,7 +8,7 @@ Focused on operations, cloud infrastructure, networking, automation & cybersecur
 ## Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cloudflare,nginx,docker,ansible,azure,git,cs,dotnet,py,java,mysql,linux,kali,debian,ubuntu,raspberrypi,php,wordpress,bash&perline=8" />
+  <img src="https://skillicons.dev/icons?i=cloudflare,nginx,docker,ansible,azure,git,github,kubernetes,cs,dotnet,py,java,mysql,linux,kali,debian,ubuntu,raspberrypi,php,wordpress,bash,latex,md,&perline=8" />
 </p>
 
 ---
