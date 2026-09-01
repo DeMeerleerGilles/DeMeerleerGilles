@@ -1,7 +1,6 @@
 # Hi, I'm Gilles De Meerleer
 
-**Applied Computer Science student at HOGENT**  
-Focused on operations, cloud infrastructure, networking, automation & cybersecurity.
+**Junior Cloud Engineer**  
 
 ## Tech Stack
 
